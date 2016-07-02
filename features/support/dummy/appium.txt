@@ -1,8 +1,2 @@
 [caps]
-platformName = "ios"
-deviceName = "=iPad Air 2 (9.3)"
-platformVersion = "9.3"
-sendKeyStrategy = "grouped"
-waitForAppScript = "true"
-udid = "d95d42c86e30b07b98866dabae36ddaf37fe792c"
-bundleId = "book.qq.com.writer"
+platformName = "dummy"

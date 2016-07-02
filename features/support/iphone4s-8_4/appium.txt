@@ -1,6 +1,0 @@
-[caps]
-platformName = "iOS"
-deviceName = "iPhone 4s"
-platformVersion = "8.4"
-waitForAppScript = "true"
-sendKeyStrategy = "grouped"
